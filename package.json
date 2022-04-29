@@ -1,0 +1,14 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zjy <zhaojangyu@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "less": "^4.1.2",
+    "vite": "^2.9.6"
+  }
+}
